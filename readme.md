@@ -57,3 +57,7 @@ export default {
 }
 </style>
 ```
+## 预览 
+``` bash
+npm run dev
+```
